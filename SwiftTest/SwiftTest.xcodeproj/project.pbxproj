@@ -17,6 +17,7 @@
 		DD89DC1F1DA4449E00F09FEB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD89DC1D1DA4449E00F09FEB /* LaunchScreen.storyboard */; };
 		DD89DC2A1DA4449E00F09FEB /* SwiftTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD89DC291DA4449E00F09FEB /* SwiftTestTests.swift */; };
 		DD89DC351DA4449E00F09FEB /* SwiftTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD89DC341DA4449E00F09FEB /* SwiftTestUITests.swift */; };
+		DDD201691DB6BA57002346E7 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = DDD201681DB6BA57002346E7 /* GoogleService-Info.plist */; };
 		E870F17AAB9B7803C56F8888 /* Pods_SwiftTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD2E1F51A31332A992D1CBF9 /* Pods_SwiftTest.framework */; };
 /* End PBXBuildFile section */
 
@@ -61,6 +62,7 @@
 		DD89DC301DA4449E00F09FEB /* SwiftTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD89DC341DA4449E00F09FEB /* SwiftTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftTestUITests.swift; sourceTree = "<group>"; };
 		DD89DC361DA4449E00F09FEB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DDD201681DB6BA57002346E7 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -146,6 +148,7 @@
 				DD89DC1B1DA4449E00F09FEB /* Assets.xcassets */,
 				DD89DC1D1DA4449E00F09FEB /* LaunchScreen.storyboard */,
 				DD89DC201DA4449E00F09FEB /* Info.plist */,
+				DDD201681DB6BA57002346E7 /* GoogleService-Info.plist */,
 			);
 			path = SwiftTest;
 			sourceTree = "<group>";
@@ -284,6 +287,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DD89DC1F1DA4449E00F09FEB /* LaunchScreen.storyboard in Resources */,
+				DDD201691DB6BA57002346E7 /* GoogleService-Info.plist in Resources */,
 				DD89DC1C1DA4449E00F09FEB /* Assets.xcassets in Resources */,
 				DD89DC1A1DA4449E00F09FEB /* Main.storyboard in Resources */,
 			);
